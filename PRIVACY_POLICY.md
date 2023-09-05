@@ -32,6 +32,6 @@ https://github.com/tahakaraa00/ezanvakti/blob/main/AndroidManifest.xml
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
 Yours sincerely,  
-Zübeyir Yalha Karakuş 
+Zübeyir Talha Karakuş 
 Eskişehir, Turkey.  
 tahakaraa00@gmail.com
