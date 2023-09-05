@@ -23,7 +23,7 @@ https://github.com/tahakaraa00/ezanvakti/blob/main/AndroidManifest.xml
 | `android.permission.ACCESS_COARSE_LOCATION` | Required to qibla and prayer times. Permission automatically granted by the system; can't be revoked by user. |
 | `android.permission.INTERNET`  | Required to qibla and prayer times. Permission automatically granted by the system; can't be revoked by user. |
 | `android.permission.ACCESS_BACKGROUND_LOCATION` | Enables the app to create background services that will qibla and prayer times. Permission automatically granted by the system; can't be revoked by user. |
-| `android.hardware.sensor.accelerometer` | Required to set alarms, whether exact or inexact. Permission automatically granted by the system; can't be revoked by user. |
+| `android.hardware.sensor.accelerometer` | Required to compass, whether exact or inexact. Permission automatically granted by the system; can't be revoked by user. |
 | `android.hardware.sensor.compass` | The only sensitive permission that the app requests, and can be revoked by the system or the user at any time.  |
 
 
