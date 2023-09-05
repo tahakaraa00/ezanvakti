@@ -13,7 +13,7 @@ I hereby state, to the best of my knowledge and belief, that I have not programm
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-https://github.com/WrichikBasu/ShakeAlarmClock/blob/1031bad5edd2e73eda091cd1e84746f4710c7528/app/src/main/AndroidManifest.xml#L7-L15
+https://github.com/tahakaraa00/ezanvakti/blob/main/AndroidManifest.xml
 
 <br/>
 
