@@ -2,7 +2,7 @@
 
 Welcome to the Qibla and Prayer Times app for Android!
 
-This is an open source Android app com.hadi.myapplication developed by Zübeyir Talha Karakuş as Hadi Industries. The app is also available on Google Play.
+This is an open source Android app com.hadi.myapplication developed by  HADI INDUSTRIES. The app is also available on Google Play.
 
 As an avid Android user myself, I take privacy very seriously.
 I know how irritating it is when apps collect your data without your knowledge.
@@ -32,6 +32,6 @@ https://github.com/tahakaraa00/ezanvakti/blob/main/AndroidManifest.xml
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
 
 Yours sincerely,  
-Zübeyir Talha Karakuş 
+HADI INDUSTRIES 
 Eskişehir, Turkey.  
 tahakaraa00@gmail.com
