@@ -2,7 +2,7 @@
 
 Welcome to the Qibla and Prayer Times app for Android!
 
-This is an open source Android app developed by Zübeyir Talha Karakuş. The app is also available on Google Play.
+This is an open source Android app com.hadi.myapplication developed by Zübeyir Talha Karakuş. The app is also available on Google Play.
 
 As an avid Android user myself, I take privacy very seriously.
 I know how irritating it is when apps collect your data without your knowledge.
