@@ -1,6 +1,6 @@
-## QIBLA AND PRAYER TIMES: Privacy policy
+## EZAN VAKTİ VE KIBLE: Privacy policy
 
-Welcome to the Qibla and Prayer Times app for Android!
+Welcome to the Ezan Vakti ve Kıble app for Android!
 
 This is an open source Android app com.hadi.myapplication developed by  Hadi Industries. The app is also available on Google Play.
 
@@ -19,10 +19,7 @@ https://github.com/tahakaraa00/ezanvakti/blob/main/AndroidManifest.xml
 
 | Permission | Why it is required |
 | :---: | --- |
-| `android.permission.ACCESS_FINE_LOCATION` | This is required to schedule an qibla and prayer times,permission automatically granted by the system; can't be revoked by user.  |
-| `android.permission.ACCESS_COARSE_LOCATION` | Required to qibla and prayer times. Permission automatically granted by the system; can't be revoked by user. |
-| `android.permission.INTERNET`  | Required to qibla and prayer times. Permission automatically granted by the system; can't be revoked by user. |
-| `android.permission.ACCESS_BACKGROUND_LOCATION` | Enables the app to create background services that will qibla and prayer times. Permission automatically granted by the system; can't be revoked by user. |
+| `android.permission.ACCESS_FINE_LOCATION` | This is required to schedule an qibla and prayer times,permission automatically granted by the system; can't be revoked by user.
 | `android.hardware.sensor.accelerometer` | Required to compass, whether exact or inexact. Permission automatically granted by the system; can't be revoked by user. |
 | `android.hardware.sensor.compass` |  Required to compass, whether exact or inexact. Permission automatically granted by the system; can't be revoked by user.  |
 
